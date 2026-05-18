@@ -1,0 +1,8 @@
+Total Solvent accessible surface area of TRP 47 and ASN33 ,,,,
+,,,,
+Residue,Structure Type,Chain,Total SASA (Å²),
+,,,,
+TRP47,Native,A (Variable heavy),11.187728059722502,
+TRP47,Modified PTM,A (Variable heavy),11.219247455599502,
+ASN33,Native,B (Variable light),84.03617109,
+ASP33,Modified PTM,B (Variable light),79.79791223314218,
