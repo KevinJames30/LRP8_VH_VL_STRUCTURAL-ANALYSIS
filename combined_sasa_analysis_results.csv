@@ -1,0 +1,5 @@
+Residue_Name,Residue_ID,Chain_ID,Structure_Type,SASA_Angstrom2
+Tryptophan,47,A,Native,18.64519039396049
+Asparagine,33,B,Native,85.74254770543054
+Tryptophan,47,A,PTM,10.874010279345486
+Aspartic Acid,33,B,PTM,79.79791223314218

@@ -1,0 +1,263 @@
+Target_Residue,Target_Chain,Query_Atom,Neighbor_Residue,Neighbor_Chain,Neighbor_Atom,Distance_Angstroms,Structure_Type
+Tryptophan 47,A,N,GLU 46,A,C,1.3201928,Native
+Tryptophan 47,A,C,LEU 48,A,N,1.3358473,Native
+Tryptophan 47,A,N,GLU 46,A,O,2.245332,Native
+Tryptophan 47,A,O,LEU 48,A,N,2.2646222,Native
+Tryptophan 47,A,CA,GLU 46,A,C,2.4217527,Native
+Tryptophan 47,A,N,GLU 46,A,CA,2.4220414,Native
+Tryptophan 47,A,CA,LEU 48,A,N,2.4298105,Native
+Tryptophan 47,A,C,LEU 48,A,CA,2.4353375,Native
+Tryptophan 47,A,CA,GLU 46,A,O,2.759958,Native
+Tryptophan 47,A,O,LEU 48,A,CA,2.7843184,Native
+Tryptophan 47,A,O,ASN 60,A,ND2,2.9521732,Native
+Tryptophan 47,A,NE1,HIS 35,A,ND1,2.9582486,Native
+Tryptophan 47,A,C,GLU 46,A,C,3.1087,Native
+Tryptophan 47,A,C,GLU 46,A,O,3.156411,Native
+Tryptophan 47,A,CB,LEU 48,A,N,3.359869,Native
+Tryptophan 47,A,CG,LEU 48,A,N,3.3709128,Native
+Tryptophan 47,A,N,GLU 46,A,N,3.413644,Native
+Tryptophan 47,A,C,LEU 48,A,C,3.4301648,Native
+Tryptophan 47,A,NE1,GLY 49,A,O,3.4429052,Native
+Tryptophan 47,A,N,GLU 46,A,CB,3.4857752,Native
+Tryptophan 47,A,O,GLU 46,A,C,3.490906,Native
+Tryptophan 47,A,N,LEU 48,A,N,3.5401554,Native
+Tryptophan 47,A,C,LEU 48,A,CB,3.5567722,Native
+Tryptophan 47,A,O,ASN 60,A,CB,3.561321,Native
+Tryptophan 47,A,CB,ARG 101,B,O,3.5682385,Native
+Tryptophan 47,A,CD1,ARG 101,B,CD,3.5766132,Native
+Tryptophan 47,A,CZ2,GLY 49,A,CA,3.6015089,Native
+Tryptophan 47,A,N,GLU 46,A,CG,3.6329298,Native
+Tryptophan 47,A,CB,GLU 46,A,C,3.6806793,Native
+Tryptophan 47,A,CZ2,GLY 49,A,C,3.6826878,Native
+Tryptophan 47,A,CZ3,ASN 60,A,N,3.6976278,Native
+Tryptophan 47,A,O,LEU 48,A,C,3.7200305,Native
+Tryptophan 47,A,O,ASN 60,A,CG,3.7290514,Native
+Tryptophan 47,A,CE2,GLY 49,A,N,3.7513084,Native
+Tryptophan 47,A,O,GLU 46,A,O,3.7519398,Native
+Tryptophan 47,A,CE2,GLY 49,A,CA,3.7588897,Native
+Tryptophan 47,A,C,LEU 48,A,CG,3.7691453,Native
+Tryptophan 47,A,CA,GLU 46,A,CA,3.7989464,Native
+Tryptophan 47,A,CZ3,ASN 60,A,CA,3.8008773,Native
+Tryptophan 47,A,CZ2,VAL 50,A,CG1,3.804044,Native
+Tryptophan 47,A,CA,LEU 48,A,CA,3.8053737,Native
+Tryptophan 47,A,CD2,LEU 48,A,N,3.81247,Native
+Tryptophan 47,A,NE1,GLY 49,A,C,3.8165364,Native
+Tryptophan 47,A,CD1,HIS 35,A,ND1,3.8189034,Native
+Tryptophan 47,A,NE1,HIS 35,A,CE1,3.821042,Native
+Tryptophan 47,A,CE2,GLY 49,A,C,3.8366733,Native
+Tryptophan 47,A,CG,ARG 101,B,CB,3.8442008,Native
+Tryptophan 47,A,CD1,LEU 48,A,N,3.8489556,Native
+Tryptophan 47,A,CH2,ASP 58,A,O,3.8766344,Native
+Tryptophan 47,A,CE3,ARG 101,B,N,3.8798063,Native
+Tryptophan 47,A,CE2,GLY 49,A,O,3.8941514,Native
+Tryptophan 47,A,CG,ARG 101,B,CD,3.9199195,Native
+Tryptophan 47,A,CD2,ARG 101,B,CB,3.9262922,Native
+Tryptophan 47,A,C,GLY 49,A,N,3.9274826,Native
+Tryptophan 47,A,CD2,GLY 49,A,N,3.9455876,Native
+Tryptophan 47,A,C,TRP 36,A,O,3.9472582,Native
+Tryptophan 47,A,CE3,PRO 100,B,CB,3.955762,Native
+Tryptophan 47,A,CE3,ASN 60,A,CB,3.9575927,Native
+Tryptophan 47,A,NE1,GLY 49,A,N,3.9576712,Native
+Tryptophan 47,A,CE2,HIS 35,A,ND1,3.9588795,Native
+Tryptophan 47,A,NE1,HIS 35,A,CG,3.9602537,Native
+Tryptophan 47,A,CZ2,VAL 50,A,N,3.9628284,Native
+Tryptophan 47,A,O,LEU 48,A,CD2,3.9726708,Native
+Tryptophan 47,A,CD1,TRP 36,A,O,3.9819674,Native
+Asparagine 33,B,N,SER 32,B,C,1.3357203,Native
+Asparagine 33,B,C,GLY 34,B,N,1.3406494,Native
+Asparagine 33,B,N,SER 32,B,O,2.2522383,Native
+Asparagine 33,B,O,GLY 34,B,N,2.259603,Native
+Asparagine 33,B,C,GLY 34,B,CA,2.42721,Native
+Asparagine 33,B,CA,SER 32,B,C,2.4300373,Native
+Asparagine 33,B,N,SER 32,B,CA,2.4426641,Native
+Asparagine 33,B,CA,GLY 34,B,N,2.4444873,Native
+Asparagine 33,B,N,GLY 34,B,N,2.692579,Native
+Asparagine 33,B,N,SER 32,B,N,2.7197123,Native
+Asparagine 33,B,CA,SER 32,B,O,2.7559943,Native
+Asparagine 33,B,O,GLY 34,B,CA,2.7613084,Native
+Asparagine 33,B,OD1,ASN 35,B,N,2.8392663,Native
+Asparagine 33,B,N,HIS 31,B,ND1,2.9406116,Native
+Asparagine 33,B,ND2,TYR 37,B,OH,2.997585,Native
+Asparagine 33,B,N,HIS 31,B,C,3.0231767,Native
+Asparagine 33,B,OD1,GLY 34,B,N,3.0401602,Native
+Asparagine 33,B,N,HIS 31,B,O,3.0756385,Native
+Asparagine 33,B,CG,HIS 31,B,ND1,3.080141,Native
+Asparagine 33,B,C,SER 32,B,C,3.2281756,Native
+Asparagine 33,B,OD1,HIS 31,B,ND1,3.2383418,Native
+Asparagine 33,B,N,SER 32,B,OG,3.2936094,Native
+Asparagine 33,B,OD1,HIS 31,B,CB,3.2979877,Native
+Asparagine 33,B,C,SER 32,B,O,3.342341,Native
+Asparagine 33,B,OD1,ASN 35,B,CB,3.3425782,Native
+Asparagine 33,B,ND2,HIS 31,B,ND1,3.3456974,Native
+Asparagine 33,B,C,ASN 35,B,N,3.350833,Native
+Asparagine 33,B,N,SER 32,B,CB,3.3580801,Native
+Asparagine 33,B,C,GLY 34,B,C,3.373224,Native
+Asparagine 33,B,OD1,ASN 35,B,ND2,3.5086215,Native
+Asparagine 33,B,O,GLY 34,B,C,3.5475092,Native
+Asparagine 33,B,OD1,HIS 31,B,CG,3.5481932,Native
+Asparagine 33,B,CB,HIS 31,B,ND1,3.5503132,Native
+Asparagine 33,B,CB,GLY 34,B,N,3.5512567,Native
+Asparagine 33,B,O,ASN 35,B,N,3.552975,Native
+Asparagine 33,B,OD1,ASN 35,B,CA,3.5856643,Native
+Asparagine 33,B,CB,SER 32,B,C,3.677579,Native
+Asparagine 33,B,CG,GLY 34,B,N,3.6983113,Native
+Asparagine 33,B,CG,ASN 35,B,ND2,3.7133234,Native
+Asparagine 33,B,ND2,ASN 35,B,ND2,3.721482,Native
+Asparagine 33,B,ND2,HIS 31,B,CE1,3.73412,Native
+Asparagine 33,B,CG,HIS 31,B,CG,3.759378,Native
+Asparagine 33,B,OD1,ASN 35,B,CG,3.7825253,Native
+Asparagine 33,B,CA,GLY 34,B,CA,3.8051057,Native
+Asparagine 33,B,CA,SER 32,B,CA,3.814092,Native
+Asparagine 33,B,CA,HIS 31,B,ND1,3.8191206,Native
+Asparagine 33,B,OD1,GLY 34,B,C,3.8278265,Native
+Asparagine 33,B,CG,HIS 31,B,CE1,3.837627,Native
+Asparagine 33,B,N,HIS 31,B,CE1,3.859052,Native
+Asparagine 33,B,N,HIS 31,B,CG,3.8762279,Native
+Asparagine 33,B,CG,TYR 37,B,OH,3.8831398,Native
+Asparagine 33,B,ND2,TYR 37,B,CZ,3.9214995,Native
+Asparagine 33,B,ND2,TYR 37,B,CE1,3.92585,Native
+Asparagine 33,B,OD1,GLY 34,B,CA,3.9339442,Native
+Asparagine 33,B,ND2,HIS 31,B,CG,3.9360616,Native
+Asparagine 33,B,OD1,TYR 37,B,CE1,3.9411469,Native
+Asparagine 33,B,CG,ASN 35,B,N,3.9514832,Native
+Asparagine 33,B,OD1,ASN 35,B,O,3.9558177,Native
+Asparagine 33,B,OD1,TYR 37,B,OH,3.9574122,Native
+Asparagine 33,B,C,HIS 31,B,O,3.9603925,Native
+Asparagine 33,B,CG,HIS 31,B,CB,3.9782043,Native
+Tryptophan 47,A,N,GLU 46,A,C,1.322288,Modified
+Tryptophan 47,A,C,LEU 48,A,N,1.3263564,Modified
+Tryptophan 47,A,N,GLU 46,A,O,2.247187,Modified
+Tryptophan 47,A,O,LEU 48,A,N,2.2512813,Modified
+Tryptophan 47,A,CA,GLU 46,A,C,2.4199977,Modified
+Tryptophan 47,A,N,GLU 46,A,CA,2.423162,Modified
+Tryptophan 47,A,CA,LEU 48,A,N,2.429063,Modified
+Tryptophan 47,A,C,LEU 48,A,CA,2.4360383,Modified
+Tryptophan 47,A,CA,GLU 46,A,O,2.7579367,Modified
+Tryptophan 47,A,O,LEU 48,A,CA,2.7817621,Modified
+Tryptophan 47,A,O,ASN 60,A,ND2,2.9404912,Modified
+Tryptophan 47,A,OXT_IND,ASP 58,A,O,3.0498805,Modified
+Tryptophan 47,A,NE1,HIS 35,A,CD2,3.0771544,Modified
+Tryptophan 47,A,OXT_IND,VAL 50,A,CG1,3.085327,Modified
+Tryptophan 47,A,C,GLU 46,A,C,3.1513355,Modified
+Tryptophan 47,A,C,GLU 46,A,O,3.2765813,Modified
+Tryptophan 47,A,CB,LEU 48,A,N,3.3753352,Modified
+Tryptophan 47,A,N,GLU 46,A,CB,3.3831966,Modified
+Tryptophan 47,A,CG,LEU 48,A,N,3.3874788,Modified
+Tryptophan 47,A,OXT_IND,ASP 58,A,CB,3.3930373,Modified
+Tryptophan 47,A,C,LEU 48,A,C,3.3969555,Modified
+Tryptophan 47,A,NE1,GLY 49,A,O,3.4308882,Modified
+Tryptophan 47,A,C,LEU 48,A,CD1,3.4635196,Modified
+Tryptophan 47,A,N,GLU 46,A,N,3.4706833,Modified
+Tryptophan 47,A,CB,ARG 101,B,O,3.4914713,Modified
+Tryptophan 47,A,O,ASN 60,A,CB,3.4938176,Modified
+Tryptophan 47,A,N,LEU 48,A,N,3.508087,Modified
+Tryptophan 47,A,CZ2,GLY 49,A,CA,3.5287287,Modified
+Tryptophan 47,A,OXT_IND,ASP 58,A,C,3.5611653,Modified
+Tryptophan 47,A,NE1,ARG 101,B,CD,3.57143,Modified
+Tryptophan 47,A,C,LEU 48,A,CB,3.5722406,Modified
+Tryptophan 47,A,O,GLU 46,A,C,3.5912824,Modified
+Tryptophan 47,A,CZ3,ASN 60,A,N,3.5915358,Modified
+Tryptophan 47,A,O,LEU 48,A,CD1,3.5933995,Modified
+Tryptophan 47,A,CZ2,GLY 49,A,C,3.6084194,Modified
+Tryptophan 47,A,CE3,ARG 101,B,N,3.6313646,Modified
+Tryptophan 47,A,O,LEU 48,A,C,3.66453,Modified
+Tryptophan 47,A,CB,GLU 46,A,C,3.6683538,Modified
+Tryptophan 47,A,O,ASN 60,A,CG,3.7000911,Modified
+Tryptophan 47,A,CG,ARG 101,B,CB,3.708655,Modified
+Tryptophan 47,A,CE2,GLY 49,A,CA,3.7120872,Modified
+Tryptophan 47,A,CE2,GLY 49,A,N,3.7141516,Modified
+Tryptophan 47,A,OXT_IND,VAL 50,A,N,3.7244656,Modified
+Tryptophan 47,A,CE3,PRO 100,B,CB,3.7417414,Modified
+Tryptophan 47,A,CH2,ASP 58,A,O,3.7587461,Modified
+Tryptophan 47,A,CZ2,VAL 50,A,CG1,3.7676077,Modified
+Tryptophan 47,A,CE2,ARG 101,B,CD,3.7746618,Modified
+Tryptophan 47,A,CD2,ARG 101,B,CB,3.7768145,Modified
+Tryptophan 47,A,CE2,GLY 49,A,C,3.778943,Modified
+Tryptophan 47,A,NE1,GLY 49,A,C,3.784606,Modified
+Tryptophan 47,A,CD2,LEU 48,A,N,3.792551,Modified
+Tryptophan 47,A,CA,GLU 46,A,CA,3.7941854,Modified
+Tryptophan 47,A,CA,LEU 48,A,CA,3.8079734,Modified
+Tryptophan 47,A,CZ3,PRO 100,B,CB,3.8098528,Modified
+Tryptophan 47,A,CZ3,ASN 60,A,CA,3.842071,Modified
+Tryptophan 47,A,CD1,ARG 101,B,CD,3.8568282,Modified
+Tryptophan 47,A,CE2,GLY 49,A,O,3.8608458,Modified
+Tryptophan 47,A,OXT_IND,GLY 49,A,CA,3.8644474,Modified
+Tryptophan 47,A,CZ2,VAL 50,A,N,3.8650296,Modified
+Tryptophan 47,A,NE1,HIS 35,A,CG,3.8819,Modified
+Tryptophan 47,A,CD1,LEU 48,A,N,3.889227,Modified
+Tryptophan 47,A,C,GLY 49,A,N,3.901216,Modified
+Tryptophan 47,A,CD2,GLY 49,A,N,3.908913,Modified
+Tryptophan 47,A,CZ2,ASP 58,A,O,3.912978,Modified
+Tryptophan 47,A,OXT_IND,GLY 49,A,C,3.9185193,Modified
+Tryptophan 47,A,C,TRP 36,A,O,3.9245784,Modified
+Tryptophan 47,A,OXT_IND,VAL 50,A,CB,3.930179,Modified
+Tryptophan 47,A,CD1,HIS 35,A,CD2,3.9413931,Modified
+Tryptophan 47,A,CH2,GLY 49,A,CA,3.9476042,Modified
+Tryptophan 47,A,NE1,GLY 49,A,N,3.95278,Modified
+Tryptophan 47,A,O,GLU 46,A,O,3.9628642,Modified
+Tryptophan 47,A,CD1,TRP 36,A,O,3.9740102,Modified
+Tryptophan 47,A,CE3,ASN 60,A,CB,3.9782984,Modified
+Tryptophan 47,A,CE2,ARG 101,B,CG,3.989764,Modified
+Tryptophan 47,A,CB,ARG 101,B,CB,3.9902015,Modified
+Tryptophan 47,A,CZ3,TYR 59,A,C,3.9908533,Modified
+Aspartic Acid 33,B,N,SER 32,B,C,1.3271929,Modified
+Aspartic Acid 33,B,C,GLY 34,B,N,1.3349001,Modified
+Aspartic Acid 33,B,O,GLY 34,B,N,2.2495954,Modified
+Aspartic Acid 33,B,N,SER 32,B,O,2.250111,Modified
+Aspartic Acid 33,B,CA,SER 32,B,C,2.4244153,Modified
+Aspartic Acid 33,B,C,GLY 34,B,CA,2.4331589,Modified
+Aspartic Acid 33,B,N,SER 32,B,CA,2.438802,Modified
+Aspartic Acid 33,B,CA,GLY 34,B,N,2.448635,Modified
+Aspartic Acid 33,B,N,GLY 34,B,N,2.7103958,Modified
+Aspartic Acid 33,B,N,SER 32,B,N,2.7166395,Modified
+Aspartic Acid 33,B,OD2,TYR 37,B,OH,2.717557,Modified
+Aspartic Acid 33,B,CA,SER 32,B,O,2.7564747,Modified
+Aspartic Acid 33,B,O,GLY 34,B,CA,2.7692137,Modified
+Aspartic Acid 33,B,OD1,ASN 35,B,N,2.8373673,Modified
+Aspartic Acid 33,B,N,HIS 31,B,ND1,2.9014003,Modified
+Aspartic Acid 33,B,OD1,GLY 34,B,N,2.9959254,Modified
+Aspartic Acid 33,B,N,HIS 31,B,C,3.0305152,Modified
+Aspartic Acid 33,B,CG,HIS 31,B,ND1,3.075998,Modified
+Aspartic Acid 33,B,N,HIS 31,B,O,3.1030526,Modified
+Aspartic Acid 33,B,OD1,HIS 31,B,ND1,3.175498,Modified
+Aspartic Acid 33,B,C,SER 32,B,C,3.2182941,Modified
+Aspartic Acid 33,B,OD1,HIS 31,B,CB,3.2267733,Modified
+Aspartic Acid 33,B,N,SER 32,B,OG,3.2914014,Modified
+Aspartic Acid 33,B,C,SER 32,B,O,3.3400097,Modified
+Aspartic Acid 33,B,C,ASN 35,B,N,3.3438258,Modified
+Aspartic Acid 33,B,N,SER 32,B,CB,3.3537004,Modified
+Aspartic Acid 33,B,C,GLY 34,B,C,3.360168,Modified
+Aspartic Acid 33,B,OD1,ASN 35,B,CB,3.3803687,Modified
+Aspartic Acid 33,B,OD2,HIS 31,B,ND1,3.4083602,Modified
+Aspartic Acid 33,B,OD1,HIS 31,B,CG,3.4965603,Modified
+Aspartic Acid 33,B,CB,HIS 31,B,ND1,3.4966786,Modified
+Aspartic Acid 33,B,OD1,ASN 35,B,OD1,3.5276906,Modified
+Aspartic Acid 33,B,O,GLY 34,B,C,3.5362234,Modified
+Aspartic Acid 33,B,O,ASN 35,B,N,3.5500576,Modified
+Aspartic Acid 33,B,CB,GLY 34,B,N,3.5529907,Modified
+Aspartic Acid 33,B,OD2,TYR 37,B,CE2,3.5804832,Modified
+Aspartic Acid 33,B,OD2,TYR 37,B,CZ,3.5857558,Modified
+Aspartic Acid 33,B,OD1,ASN 35,B,CA,3.5886421,Modified
+Aspartic Acid 33,B,OD2,ASN 35,B,OD1,3.628362,Modified
+Aspartic Acid 33,B,CG,TYR 37,B,OH,3.6605384,Modified
+Aspartic Acid 33,B,CG,ASN 35,B,OD1,3.6659176,Modified
+Aspartic Acid 33,B,CB,SER 32,B,C,3.675314,Modified
+Aspartic Acid 33,B,CG,GLY 34,B,N,3.692493,Modified
+Aspartic Acid 33,B,OD1,TYR 37,B,CE2,3.7309506,Modified
+Aspartic Acid 33,B,CA,HIS 31,B,ND1,3.7684035,Modified
+Aspartic Acid 33,B,CG,HIS 31,B,CG,3.768946,Modified
+Aspartic Acid 33,B,OD1,ASN 35,B,CG,3.802803,Modified
+Aspartic Acid 33,B,CA,SER 32,B,CA,3.807513,Modified
+Aspartic Acid 33,B,N,HIS 31,B,CE1,3.8101914,Modified
+Aspartic Acid 33,B,CA,GLY 34,B,CA,3.8138196,Modified
+Aspartic Acid 33,B,OD1,GLY 34,B,C,3.8138814,Modified
+Aspartic Acid 33,B,N,HIS 31,B,CG,3.8352723,Modified
+Aspartic Acid 33,B,CG,HIS 31,B,CE1,3.8471391,Modified
+Aspartic Acid 33,B,OD2,HIS 31,B,CE1,3.8605142,Modified
+Aspartic Acid 33,B,OD1,TYR 37,B,OH,3.8797843,Modified
+Aspartic Acid 33,B,OD1,GLY 34,B,CA,3.920724,Modified
+Aspartic Acid 33,B,OD1,ASN 35,B,O,3.9288328,Modified
+Aspartic Acid 33,B,CG,ASN 35,B,N,3.9347584,Modified
+Aspartic Acid 33,B,C,HIS 31,B,O,3.9610126,Modified
+Aspartic Acid 33,B,CG,HIS 31,B,CB,3.9688797,Modified
+Aspartic Acid 33,B,N,HIS 31,B,CB,3.9939697,Modified
